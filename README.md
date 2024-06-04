@@ -48,13 +48,13 @@ Set the openai api key as an environment variable OPENAI_KEY in your operating s
 Linux/Mac
 
 ```bash
-export OPENAI_KEY=sk-ApiKeyExample
+export OPENAI_API_KEY=sk-ApiKeyExample
 ```
 
 Windows
 
 ```bash
-set OPENAI_KEY=sk-ApiKeyExample
+set OPENAI_API_KEY=sk-ApiKeyExample
 ```
 
 If you want to specify particular OpenAI org or project, set up `OPENAI_ORG_ID` and `OPENAI_PROJECT_ID` environment variables. 
